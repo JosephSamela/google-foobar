@@ -1,21 +1,19 @@
-def answer(s):
-    # Here's my solution. I was given string "s".
-    # s="abcabcabcabc"
-    
-    # From s I build an array of possible substrings
-    # possible_substrings = ["a","ab","abc","abca","abcab","abcabc"]
-    
-    # For each possible substring, I checked if it was valid.
-    # valid_substrings = ["abc","abcabc"]
+# Here's my solution. I was given string "s".
+# s="abcabcabcabc"
 
-    # Then I found the number of times each valid substring appeard in s
-    # valid_substring_freq = [4, 2]
+# From s I build an array of possible substrings
+# possible_substrings = ["a","ab","abc","abca","abcab","abcabc"]
 
-    # The solution is the greatest number of times a valid substring appears!
-    # solution = 4
-    
- ######################
- 
+# For each possible substring, I checked if it was valid.
+# valid_substrings = ["abc","abcabc"]
+
+# Then I found the number of times each valid substring appeard in s
+# valid_substring_freq = [4, 2]
+
+# The solution is the greatest number of times a valid substring appears!
+# solution = 4
+
+def answer(s): 
     # 1. Create list of all present sub strings.
     
     # From s="abcabcabcabc" we would get:  
@@ -77,7 +75,3 @@ for s in cases:
     a = answer(s)
     print(s)
     print(a)
-
-
-
-

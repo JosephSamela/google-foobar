@@ -3,7 +3,7 @@
 # If q = 4, the tree looks like this...
 
 # LEVEL 4    #           15
-		     #         /     \
+             #         /     \
              #        /       \
              #       /         \
 # LEVEL 3    #      7          14 

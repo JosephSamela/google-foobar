@@ -1,9 +1,16 @@
 # Google foobar challenge
 
-Google foo.bar is coding game/challenge for programmers to test their skills. Let this be a record of the work I put into solving these problems.
+Google [foo.bar](https://foobar.withgoogle.com/) is coding game/challenge for programmers to test their skills. Here are my solutions to some increasingly tough challenges!
 
-I solved the following challenges:
-* the_cake_is_a_lie
-* lovely_lucky_lambs
-* ion_flux_relabeling
-* prepare_the_bunnies_escape
+## Level 1
+
+* [the_cake_is_a_lie](level1/the_cake_is_a_lie.py)
+
+## Level 2
+
+* [lovely_lucky_lambs](level2/lovely_lucky_lambs.py)
+* [ion_flux_relabeling](level2/ion_flux_relabeling.py)
+
+## Level 3
+
+* [prepare_the_bunnies_escape](level3/prepare_the_bunnies_escape.py)
